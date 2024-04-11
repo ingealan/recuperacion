@@ -1,0 +1,32 @@
+/*Selector Universal*/
+* {
+    background-color: rgb(243, 219, 183);
+    color: rgb(0, 0, 0);
+}
+
+th{
+    color:brown !important;
+    background-color: rgb(255, 255, 255) !important;
+}
+td{
+    color:brown !important;
+    background-color: rgb(255, 255, 255) !important;
+}
+/*Selectores de tipo ID*/
+#titulo {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-style: italic;
+}
+
+/* Selector tipo clase*/
+.letra-letra {
+    color: rgb(15, 51, 23);
+    font-style: italic;
+}
+
+.tabla {
+    color: rgb(21, 119, 42);
+    font-style: italic;
+    background-color: rgb(66, 56, 56);
+}
